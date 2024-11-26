@@ -1,0 +1,10 @@
+name: GeyserModelEngine
+version: '${project.version}'
+main: re.imc.geysermodelengine.GeyserModelEngine
+authors:
+  - zimzaza4
+  - willem.dev
+api-version: '1.19'
+depend:
+  - ModelEngine
+  - floodgate
